@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Graha</h1>
+<h1 align="center">Hi 👋, I'm Graham</h1>
 <h3 align="center">A passionate frontend developer based in Gauteng, South Africa</h3>
 
 - 🔭 I’m currently working on [goadvert](https://www.iadvertiz.com/)
